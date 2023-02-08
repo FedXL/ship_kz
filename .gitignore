@@ -1,0 +1,12 @@
+.idea
+venv
+/venv
+
+/__pycache__
+/app/__pycache__
+*/__pycache__
+/utils/config.py
+**/__pycache__
+**/__pycache__/**
+/sheets/credentials.json
+
